@@ -40,4 +40,4 @@ Aqui no windows, vamos fazer o download do OpenJDK Zulu. As compilações do Azu
 🔹 9. Vamos conferir mais uma vez se o Java está instalado na nossa máquina
 
      java -version
-- Créditos:[DevSuperior](https://www.youtube.com/watch?v=laC0fiI-IOM)
+- Créditos: [DevSuperior](https://www.youtube.com/watch?v=laC0fiI-IOM)
